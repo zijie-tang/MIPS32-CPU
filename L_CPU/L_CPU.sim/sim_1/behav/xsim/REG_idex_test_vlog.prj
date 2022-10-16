@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../LL_CPU.srcs/sources_1/new/D_FF.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC2.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC32.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC4.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC5.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_FFEC6.v" \
+"../../../../LL_CPU.srcs/sources_1/new/D_Latch.v" \
+"../../../../LL_CPU.srcs/sources_1/new/MUX2X1.v" \
+"../../../../LL_CPU.srcs/sources_1/new/REG_idex.v" \
+"../../../../LL_CPU.srcs/sim_1/new/REG_idex_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

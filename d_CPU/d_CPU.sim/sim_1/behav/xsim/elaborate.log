@@ -1,0 +1,13 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 0be117665b234068ae1da85c3a8e189f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test2_behav xil_defaultlib.test2 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port En [G:/计组实验资料/单周期/d_CPU/d_CPU.srcs/sources_1/new/PC.v:27]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port Cin [G:/计组实验资料/单周期/d_CPU/d_CPU.srcs/sources_1/new/PCadd4.v:25]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port Sa [G:/计组实验资料/单周期/d_CPU/d_CPU.srcs/sources_1/new/CPU.v:42]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port Cin [G:/计组实验资料/单周期/d_CPU/d_CPU.srcs/sources_1/new/CPU.v:50]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port A1 [G:/计组实验资料/单周期/d_CPU/d_CPU.srcs/sources_1/new/CPU.v:39]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis

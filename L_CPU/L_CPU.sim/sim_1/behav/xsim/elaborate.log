@@ -1,0 +1,48 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 66e49c528aff48648d6a88e3e0dccd6f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port Cin [G:/L_CPU/L_CPU.srcs/sources_1/new/PCadd4.v:25]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port Cin [G:/L_CPU/L_CPU.srcs/sim_1/new/test.v:51]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port A1 [G:/L_CPU/L_CPU.srcs/sim_1/new/test.v:46]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MUX4X32
+Compiling module xil_defaultlib.MUX2X1
+Compiling module xil_defaultlib.D_Latch
+Compiling module xil_defaultlib.D_FF
+Compiling module xil_defaultlib.D_FFEC
+Compiling module xil_defaultlib.D_FFEC32
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.CLA_4
+Compiling module xil_defaultlib.CLA_32
+Compiling module xil_defaultlib.PCadd4
+Compiling module xil_defaultlib.INSTMEM
+Compiling module xil_defaultlib.REG_ifid
+Compiling module xil_defaultlib.CONUNIT
+Compiling module xil_defaultlib.MUX2X5
+Compiling module xil_defaultlib.MUX2X32
+Compiling module xil_defaultlib.EXT16T32
+Compiling module xil_defaultlib.DEC5T32E
+Compiling module xil_defaultlib.REG32
+Compiling module xil_defaultlib.MUX32X32
+Compiling module xil_defaultlib.REGFILE
+Compiling module xil_defaultlib.SHIFTER32_L2
+Compiling module xil_defaultlib.SHIFTER_COMBINATION
+Compiling module xil_defaultlib.D_FFEC6
+Compiling module xil_defaultlib.D_FFEC4
+Compiling module xil_defaultlib.D_FFEC5
+Compiling module xil_defaultlib.D_FFEC2
+Compiling module xil_defaultlib.REG_idex
+Compiling module xil_defaultlib.ADDSUB_32
+Compiling module xil_defaultlib.SHIFTER
+Compiling module xil_defaultlib.MUX6X32
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.REG_exmem
+Compiling module xil_defaultlib.DATAMEM
+Compiling module xil_defaultlib.REG_memwb
+Compiling module xil_defaultlib.test
+Compiling module xil_defaultlib.glbl

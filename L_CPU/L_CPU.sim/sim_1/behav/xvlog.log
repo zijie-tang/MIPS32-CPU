@@ -1,0 +1,47 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sources_1/new/ADDSUB_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADDSUB_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sources_1/new/CLA_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sources_1/new/CLA_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_4
+INFO: [VRFC 10-2458] undeclared symbol Y_3, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:28]
+INFO: [VRFC 10-2458] undeclared symbol X_3, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:29]
+INFO: [VRFC 10-2458] undeclared symbol Y_2, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:30]
+INFO: [VRFC 10-2458] undeclared symbol X_2, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:31]
+INFO: [VRFC 10-2458] undeclared symbol Y_1, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:32]
+INFO: [VRFC 10-2458] undeclared symbol X_1, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:33]
+INFO: [VRFC 10-2458] undeclared symbol Y_0, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:34]
+INFO: [VRFC 10-2458] undeclared symbol X_0, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:35]
+INFO: [VRFC 10-2458] undeclared symbol Y_31, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:36]
+INFO: [VRFC 10-2458] undeclared symbol Y_32, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:37]
+INFO: [VRFC 10-2458] undeclared symbol Y_33, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:38]
+INFO: [VRFC 10-2458] undeclared symbol Y_34, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:39]
+INFO: [VRFC 10-2458] undeclared symbol Y_35, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:40]
+INFO: [VRFC 10-2458] undeclared symbol Y__3, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:42]
+INFO: [VRFC 10-2458] undeclared symbol Y_21, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:43]
+INFO: [VRFC 10-2458] undeclared symbol Y_22, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:44]
+INFO: [VRFC 10-2458] undeclared symbol Y_23, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:45]
+INFO: [VRFC 10-2458] undeclared symbol Y_24, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:46]
+INFO: [VRFC 10-2458] undeclared symbol Y_25, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:47]
+INFO: [VRFC 10-2458] undeclared symbol Y_26, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:48]
+INFO: [VRFC 10-2458] undeclared symbol Y__2, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:50]
+INFO: [VRFC 10-2458] undeclared symbol Y_11, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:51]
+INFO: [VRFC 10-2458] undeclared symbol Y_12, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:52]
+INFO: [VRFC 10-2458] undeclared symbol Y_13, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:53]
+INFO: [VRFC 10-2458] undeclared symbol Y_14, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:54]
+INFO: [VRFC 10-2458] undeclared symbol Y_15, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:55]
+INFO: [VRFC 10-2458] undeclared symbol Y__1, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:57]
+INFO: [VRFC 10-2458] undeclared symbol Y_51, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:58]
+INFO: [VRFC 10-2458] undeclared symbol Y_52, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:59]
+INFO: [VRFC 10-2458] undeclared symbol Y_53, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:60]
+INFO: [VRFC 10-2458] undeclared symbol Y_54, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:61]
+INFO: [VRFC 10-2458] undeclared symbol Y__0, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:63]
+INFO: [VRFC 10-2458] undeclared symbol Y_4, assumed default net type wire [E:/CPU/CPU.srcs/sources_1/new/CLA_4.v:64]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sources_1/new/MUX2X32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2X32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.srcs/sim_1/new/ALU_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/CPU/CPU.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
