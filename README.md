@@ -38,7 +38,7 @@ The arithmetic unit ALU is one of the core components of the CPU. There are two 
 
 A 32×32 register group will be constructed for REGFILE, that is, there are 32 registers in total, and the bit width of each register is 32 bits.
 
-<img src="image/d_REGFILE.png" width="500">
+<img src="image/d_REGFILE.png" width="300">
 
 ### Conunit
 
@@ -58,7 +58,7 @@ The basic principle of CPU packaging is to connect various functional components
 
 In order to run the entire CPU, a top-level module (MAIN) needs to be added to call these modules.
 
-<img src="image/L_CPU.png" width="500">
+<img src="image/L_CPU.png" width="400">
 
 # Author
 
