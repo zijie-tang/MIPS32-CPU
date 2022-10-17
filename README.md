@@ -32,13 +32,13 @@
 
 The arithmetic unit ALU is one of the core components of the CPU. There are two main methods for its implementation: one is based on the adder and is implemented by changing the carry function; the other is implemented by parallel multiplexing of the arithmetic components. In the implementation of ALU, a 32-bit adder/subtractor, a 32-bit shifter, and a 32-bit 6-to-1 selector are used.
 
-<img src="image/d_ALU.png" width="1000">
+<img src="image/d_ALU.png" width="500">
 
 ### REGFILE
 
 A 32×32 register group will be constructed for REGFILE, that is, there are 32 registers in total, and the bit width of each register is 32 bits.
 
-<img src="image/d_REGFILE.png" width="1000">
+<img src="image/d_REGFILE.png" width="500">
 
 ### Conunit
 
@@ -52,13 +52,13 @@ Do not use IP core design instruction memory, directly use general code to achie
 
 The basic principle of CPU packaging is to connect various functional components according to the overall circuit diagram of a single-cycle CPU.
 
-<img src="image/d_package.png" width="1000">
+<img src="image/d_package.png" width="500">
 
 ## Pipelined CPU
 
 In order to run the entire CPU, a top-level module (MAIN) needs to be added to call these modules.
 
-<img src="image/L_CPU.png" width="1000">
+<img src="image/L_CPU.png" width="500">
 
 # Author
 
