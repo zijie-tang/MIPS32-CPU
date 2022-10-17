@@ -10,12 +10,12 @@
  
  Single-cycle CPU implements by ALU (arithmetic unit), controller, register file, instruction fetch components and other basic functional components. 
  
- - [Basic Components](#Basic Components)
+ - [`Basic Components`](#Basic Components)
  - [ALU](#ALU)
  - [REGFILE](#REGFILE)
  - [Conunit](#Conunit)
- - [Instruction Memory](#Instruction Memory)
- - [CPU Packaging](#CPU Packaging)
+ - [`Instruction Memory`](#Instruction Memory)
+ - [`CPU Packaging`](#CPU Packaging)
  
  ### Basic Components
  
