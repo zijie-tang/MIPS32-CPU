@@ -10,6 +10,10 @@
  
  - [Basic Components](#Basic Components)
  - [ALU](#ALU)
+ - [REGFILE](#REGFILE)
+ - [Conunit](#Conunit)
+ - [Instruction Memory](#Instruction Memory)
+ - [CPU Packaging](#CPU Packaging)
  
  ### basic Components
  
@@ -42,8 +46,21 @@ In the Verilog implementation code of the controller, the function of the instru
 
 Do not use IP core design instruction memory, directly use general code to achieve.
 
-### CPU packaging
+### CPU Packaging
 
 The basic principle of CPU packaging is to connect various functional components according to the overall circuit diagram of a single-cycle CPU.
 
 <img src="images/d_package.png" width="1000">
+
+## Pipelined CPU
+
+In order to run the entire CPU, a top-level module (MAIN) needs to be added to call these modules.
+
+<img src="images/L_CPU.png" width="1000">
+
+# Author
+
+- Zijie Tang
+- zijietang0316@gmail.com
+- [GitHub](https://github.com/zijietang0316)
+- [LinkedIn](https://www.linkedin.com/in/zijie-tang-4ba81b240/)
