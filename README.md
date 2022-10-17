@@ -3,10 +3,10 @@
  Verilog implements Single-cycle and Pipelined CPUs which can execute 20 instructions.
  
  Files:
- - [`d_CPU`](#Single-cycle CPU): files which is Single-cycle CPU.
- - [`L_CPU`](#Pipelined CPU): files which is Pipelined CPU.
+ - [`Single-Cycle CPU`](#d_CPU): files which is Single-cycle CPU.
+ - [`Pipelined CPU`](#L_CPU): files which is Pipelined CPU.
  
- ## Single-cycle CPU
+ ## Single-Cycle CPU
  
  Single-cycle CPU implements by ALU (arithmetic unit), controller, register file, instruction fetch components and other basic functional components. 
  
