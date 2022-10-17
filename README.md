@@ -1,8 +1,10 @@
 # MIPS32-CPU
+
  Verilog implements Single-cycle and Pipelined CPUs which can execute 20 instructions.
+ 
  Files:
- - [`d_CPU`](#Single-cycle CPU)
- - [`L_CPU`](#Pipelined CPU)
+ - [`d_CPU`](#Single-cycle CPU): files which is Single-cycle CPU.
+ - [`L_CPU`](#Pipelined CPU): files which is Pipelined CPU.
  
  ## Single-cycle CPU
  
@@ -15,7 +17,7 @@
  - [Instruction Memory](#Instruction Memory)
  - [CPU Packaging](#CPU Packaging)
  
- ### basic Components
+ ### Basic Components
  
  Basic function components are below:
 - 32-bit 2-to-1 Selector
